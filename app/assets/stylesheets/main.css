@@ -199,3 +199,14 @@ h1 {
 
 	float:right;
  }
+
+.filterLabel{
+   float:left;
+   line-height:2;
+}
+.typeFilter{
+	width:60% !important;
+}
+.search{
+   float:left !important;
+}
